@@ -1,6 +1,6 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-Scientific_Computing-orange?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-Scientific_Computing-orange?style=for-the-badge&logo=numpy&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Pandas-Data_Analysis-purple?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-ML-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black"/> 
   <img src="https://img.shields.io/badge/NLP-Text_Processing-green?style=for-the-badge"/> 
